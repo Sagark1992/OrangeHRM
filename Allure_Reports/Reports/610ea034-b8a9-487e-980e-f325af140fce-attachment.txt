@@ -1,0 +1,8 @@
+[32mINFO    [0m Test_Login:test_Login.py:19 Login Test Execution Started
+[32mINFO    [0m Test_Login:test_Login.py:21 URL Entering
+[32mINFO    [0m Test_Login:test_Login.py:25 Entering Username
+[32mINFO    [0m Test_Login:test_Login.py:27 Entering Password
+[32mINFO    [0m Test_Login:test_Login.py:29 Clicking on Login Button
+[32mINFO    [0m Test_Login:test_Login.py:35 Login test case passed
+[32mINFO    [0m Test_Login:test_Login.py:36 Capturing Screenshot for test case passed
+[32mINFO    [0m Test_Login:test_Login.py:48 Login test execution completed

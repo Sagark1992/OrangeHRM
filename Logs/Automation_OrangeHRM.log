@@ -1,0 +1,45 @@
+2023-06-23 12:58:02,199 : INFO : Test_Login : test_login : 20 : Login Test Execution Started
+2023-06-23 12:58:02,199 : INFO : Test_Login : test_login : 22 : URL Entering
+2023-06-23 12:58:13,939 : INFO : Test_Login : test_login : 32 : Entering Username-->Admin
+2023-06-23 12:58:14,031 : INFO : Test_Login : test_login : 34 : Entering Password-->admin123
+2023-06-23 12:58:14,124 : INFO : Test_Login : test_login : 36 : Clicking on Login Button
+2023-06-23 12:58:19,435 : INFO : Test_Login : test_login : 46 : Clicking on Logout Button
+2023-06-23 12:58:26,779 : INFO : Test_Login : test_login : 32 : Entering Username-->Admin
+2023-06-23 12:58:26,948 : INFO : Test_Login : test_login : 34 : Entering Password-->admin1234
+2023-06-23 12:58:27,139 : INFO : Test_Login : test_login : 36 : Clicking on Login Button
+2023-06-23 12:58:36,211 : INFO : Test_Login : test_login : 32 : Entering Username-->Admin1
+2023-06-23 12:58:36,316 : INFO : Test_Login : test_login : 34 : Entering Password-->admin123
+2023-06-23 12:58:36,408 : INFO : Test_Login : test_login : 36 : Clicking on Login Button
+2023-06-23 12:58:43,593 : INFO : Test_Login : test_login : 32 : Entering Username-->Admin1
+2023-06-23 12:58:43,637 : INFO : Test_Login : test_login : 34 : Entering Password-->admin1234
+2023-06-23 12:58:43,700 : INFO : Test_Login : test_login : 36 : Clicking on Login Button
+2023-06-23 12:58:48,129 : INFO : Test_Login : test_login : 66 : Login_DDT Test Execution Completed
+2023-06-23 12:58:48,263 : INFO : Test_Login : test_login : 73 : Testcases test_login_DDT_003 is failed
+2023-06-23 13:39:38,766 : INFO : Test_Recruitment : test_login : 20 : Recruitment Test Execution Started
+2023-06-23 13:39:38,767 : INFO : Test_Recruitment : test_login : 22 : URL Entering
+2023-06-23 13:40:33,590 : INFO : Test_Recruitment : test_login : 26 : Entering Username-->Admin
+2023-06-23 13:40:33,738 : INFO : Test_Recruitment : test_login : 28 : Entering Password-->admin123
+2023-06-23 13:40:33,839 : INFO : Test_Recruitment : test_login : 30 : Clicking on Login Button
+2023-06-23 13:41:53,977 : INFO : Test_Recruitment : test_login : 20 : Recruitment Test Execution Started
+2023-06-23 13:41:54,002 : INFO : Test_Recruitment : test_login : 22 : URL Entering
+2023-06-23 13:42:48,947 : INFO : Test_Recruitment : test_login : 26 : Entering Username-->Admin
+2023-06-23 13:43:13,100 : INFO : Test_Recruitment : test_login : 20 : Recruitment Test Execution Started
+2023-06-23 13:43:13,101 : INFO : Test_Recruitment : test_login : 22 : URL Entering
+2023-06-23 13:43:33,070 : INFO : Test_Recruitment : test_login : 26 : Entering Username-->Admin
+2023-06-23 13:43:33,141 : INFO : Test_Recruitment : test_login : 28 : Entering Password-->admin123
+2023-06-23 13:43:33,248 : INFO : Test_Recruitment : test_login : 30 : Clicking on Login Button
+2023-06-23 13:44:47,649 : INFO : Test_Recruitment : test_login : 20 : Recruitment Test Execution Started
+2023-06-23 13:44:47,649 : INFO : Test_Recruitment : test_login : 22 : URL Entering
+2023-06-23 13:45:18,023 : INFO : Test_Recruitment : test_login : 26 : Entering Username-->Admin
+2023-06-23 13:45:18,146 : INFO : Test_Recruitment : test_login : 28 : Entering Password-->admin123
+2023-06-23 13:45:18,314 : INFO : Test_Recruitment : test_login : 30 : Clicking on Login Button
+2023-06-23 13:47:25,702 : INFO : Test_Recruitment : test_login : 20 : Recruitment Test Execution Started
+2023-06-23 13:47:25,702 : INFO : Test_Recruitment : test_login : 22 : URL Entering
+2023-06-23 13:47:45,098 : INFO : Test_Recruitment : test_login : 26 : Entering Username-->Admin
+2023-06-23 13:47:45,254 : INFO : Test_Recruitment : test_login : 28 : Entering Password-->admin123
+2023-06-23 13:47:45,529 : INFO : Test_Recruitment : test_login : 30 : Clicking on Login Button
+2023-06-23 13:51:44,873 : INFO : Test_Recruitment : test_login : 20 : Recruitment Test Execution Started
+2023-06-23 13:51:44,958 : INFO : Test_Recruitment : test_login : 22 : URL Entering
+2023-06-23 13:52:06,966 : INFO : Test_Recruitment : test_login : 26 : Entering Username-->Admin
+2023-06-23 13:52:07,152 : INFO : Test_Recruitment : test_login : 28 : Entering Password-->admin123
+2023-06-23 13:52:07,376 : INFO : Test_Recruitment : test_login : 30 : Clicking on Login Button
